@@ -1,12 +1,13 @@
 👋 Hi, I’m @Mlamichhane1!
-I’m an incoming Software Engineering major at Drexel University. I’m passionate about AI, machine learning, and software development, especially their role in solving real-world problems in healthcare through automation, analytics, and predictive modeling.
+I’m a B.S. Economics student at Drexel University, pursuing a minor in Data Science. I’m passionate about AI, data analytics, and software development, and I love exploring how technology can solve real-world economic and healthcare problems through automation, analytics, and predictive modeling.
 
-🌱 I’m currently expanding my skills in Python, Java, SQL, and software design principles, while also learning ML frameworks like TensorFlow and PyTorch and cloud tools like AWS and GCP.
+🌱 I’m currently growing my skills in Python, SQL, R, and data visualization tools like Tableau and Power BI, while also learning machine learning techniques and working on economics-focused data projects.
 
-💡 I’m open to collaborating on software projects, ML/AI applications, Kaggle challenges, and building impactful tools that drive innovation in healthcare and beyond.
+💡 I’m open to collaborating on data analytics dashboards, ML/AI applications, and innovative projects that combine economics, data, and technology.
 
 📫 Reach me:
 🔗 LinkedIn
+
 📧 lamichhanemadhav2018@gmail.com
 
-⚡ Fun fact: I love solving logic puzzles and streamlining workflows—my last project improved efficiency by 20%!
+⚡ Fun fact: My latest dashboard project analyzed 14 years of U.S. inflation data, turning raw economic indicators into interactive, insight-driven visuals in less than a day!
