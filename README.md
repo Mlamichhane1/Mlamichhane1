@@ -67,7 +67,7 @@ Features data persistence, category-based filtering, and Matplotlib visualizatio
 ---
 
 ### 🌍 Beyond Code
-- 🧘 I enjoy swimming and exploring new hiking trails on weekends.  
+- ⚽ I enjoy playing and watching soccer — my favorite way to clear my mind after coding.  
 - 🎥 Movie enthusiast — loved analyzing *Ex Machina* for AI ethics!  
 - ☕ Fuelled by curiosity (and coffee).  
 - 📚 Always learning — from economic data to deep learning models.
