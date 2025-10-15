@@ -1,13 +1,3 @@
-<!-- ============================================================ -->
-<!--  GITHUB PROFILE README FOR MADHAV LAMICHHANE (DREXEL UNIVERSITY) -->
-<!-- ============================================================ -->
-
-<!-- 🖼️ Banner Section -->
-<p align="center">
-  <!-- Replace IMAGE_LINK_HERE after uploading your banner -->
-  <img src="IMAGE_LINK_HERE" alt="Madhav Lamichhane - Economics & Data Science @ Drexel University" width="100%">
-</p>
-
 <h1 align="center">Hi there, I'm Madhav Lamichhane 👋</h1>
 
 <p align="center">
@@ -65,14 +55,6 @@ Visualizes trends, identifies inflation spikes, and calculates average + peak ra
 Python + SQLite app for tracking and visualizing daily expenses.  
 Features data persistence, category-based filtering, and Matplotlib visualization.  
 *Tech:* Python · SQLite · Matplotlib
-
-#### 🧠 AI Audiobook Generator
-Built during an AI Hackathon — uses OCR + Gemini API to summarize PDFs and convert to speech.  
-*Tech:* Python · Gemini API · Tesseract OCR
-
-#### 🏋️ [BodyForge Fitness Tracker](https://github.com/mlamichhane1/BodyForge)
-A MERN-based fitness web app for personalized workout tracking and progress visualization.  
-*Tech:* React · Node.js · Express · MongoDB
 
 ---
 
