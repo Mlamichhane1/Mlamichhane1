@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 <b>BS in Economics</b> with a <b>Minor in Data Science</b> (Class of 2027) | <b>Drexel University</b> 🐉  
-💡 Exploring the intersection of <b>AI, Data Science, and Economics</b>  
+💡 Exploring the intersection of <b>AI/ML, Data Science, and Economics</b>  
 🚀 Building intelligent, data-driven tools that make life smarter and simpler.
 </p>
 
