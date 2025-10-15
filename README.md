@@ -1,11 +1,3 @@
-<!-- 💫 GitHub Profile README for Madhav Lamichhane -->
-
-<!-- ====================== BANNER ====================== -->
-<p align="center">
-  <!-- 👇 Replace IMAGE_LINK_HERE with your banner image URL after upload -->
-  <img src="IMAGE_LINK_HERE" alt="Madhav Lamichhane - Economics & Data Science @ Drexel University" width="100%">
-</p>
-
 <h1 align="center">Hi there, I'm Madhav Lamichhane 👋</h1>
 
 <p align="center">
