@@ -66,13 +66,6 @@ Features data persistence, category-based filtering, and Matplotlib visualizatio
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mlamichhane1&show_icons=true&theme=radical" alt="Madhav's GitHub stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlamichhane1&layout=compact&theme=radical" alt="Top Languages" width="40%">
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mlamichhane1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
