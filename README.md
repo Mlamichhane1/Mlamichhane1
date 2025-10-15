@@ -1,3 +1,13 @@
+<!-- ============================================================ -->
+<!--  GITHUB PROFILE README FOR MADHAV LAMICHHANE (DREXEL UNIVERSITY) -->
+<!-- ============================================================ -->
+
+<!-- 🖼️ Banner Section -->
+<p align="center">
+  <!-- Replace IMAGE_LINK_HERE after uploading your banner -->
+  <img src="IMAGE_LINK_HERE" alt="Madhav Lamichhane - Economics & Data Science @ Drexel University" width="100%">
+</p>
+
 <h1 align="center">Hi there, I'm Madhav Lamichhane 👋</h1>
 
 <p align="center">
@@ -5,6 +15,16 @@
 💡 Exploring the intersection of <b>AI, Data Science, and Economics</b>  
 🚀 Building intelligent, data-driven tools that make life smarter and simpler.
 </p>
+
+---
+
+### 🎯 Quick Snapshot
+
+| 🎯 Focus Areas | 📍 Location | 🎓 Education | 💼 Interests |
+|----------------|-------------|--------------|--------------|
+| AI · Data Science · Economics | Philadelphia, PA | Drexel University | Machine Learning, Cloud, Visualization |
+
+> 📘 “Economics meets AI — I build data-driven systems that turn patterns into predictions.”
 
 ---
 
@@ -61,6 +81,27 @@ A MERN-based fitness web app for personalized workout tracking and progress visu
 - 📈 Time Series Forecasting  
 - 🧩 Cloud Deployment (AWS & Azure)  
 - 💬 Generative AI Integration (Gemini API, OpenAI API)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mlamichhane1&show_icons=true&theme=radical" alt="Madhav's GitHub stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlamichhane1&layout=compact&theme=radical" alt="Top Languages" width="40%">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mlamichhane1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+### 🌍 Beyond Code
+- 🧘 I enjoy swimming and exploring new hiking trails on weekends.  
+- 🎥 Movie enthusiast — loved analyzing *Ex Machina* for AI ethics!  
+- ☕ Fuelled by curiosity (and coffee).  
+- 📚 Always learning — from economic data to deep learning models.
 
 ---
 
