@@ -12,7 +12,7 @@
 
 | 🎯 Focus Areas | 📍 Location | 🎓 Education | 💼 Interests |
 |----------------|-------------|--------------|--------------|
-| AI/ML · Data Science · Economics | Philadelphia, PA | Drexel University | Machine Learning, Cloud, Visualization |
+| AI · Data Science · Economics | Philadelphia, PA | Drexel University | Machine Learning, Cloud, Visualization |
 
 > 📘 “Economics meets AI — I build data-driven systems that turn patterns into predictions.”
 
