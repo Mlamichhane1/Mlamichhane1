@@ -58,14 +58,6 @@ Features data persistence, category-based filtering, and Matplotlib visualizatio
 
 ---
 
-### 🎯 Currently Learning
-- 🤖 Machine Learning (scikit-learn, TensorFlow)  
-- 📈 Time Series Forecasting  
-- 🧩 Cloud Deployment (AWS & Azure)  
-- 💬 Generative AI Integration (Gemini API, OpenAI API)
-
----
-
 ### 🌍 Beyond Code
 - ⚽ I enjoy playing and watching soccer — my favorite way to clear my mind after coding.  
 - 🎥 Movie enthusiast — loved analyzing *Ex Machina* for AI ethics!  
