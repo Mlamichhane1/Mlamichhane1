@@ -76,8 +76,10 @@ Features data persistence, category-based filtering, and Matplotlib visualizatio
   <a href="mailto:ml3862@drexel.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Madhav+Lamichhane;Economics+%26+Data+Science+Student+@+Drexel+University;Exploring+AI%2C+Machine+Learning%2C+and+Data+Driven+Economics;Turning+Data+into+Insights+and+Innovation;Let's+Connect+and+Build+Impactful+Projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Economics+%26+Data+Science+Enthusiast;Exploring+AI%2C+Machine+Learning%2C+and+Analytics;Turning+Data+into+Meaningful+Insights;Let's+Build+Something+Innovative!" alt="Typing SVG" />
 </p>
 
 ---
