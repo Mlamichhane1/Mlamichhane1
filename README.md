@@ -76,6 +76,10 @@ Features data persistence, category-based filtering, and Matplotlib visualizatio
   <a href="mailto:ml3862@drexel.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+space!;AI+for+good+and+fun+-+that's+my+jam.;Let's+connect+and+build+cool+stuff!">
+</p>
+
 ---
 
 <p align="center">💡 “Data tells stories — I love making them intelligent.”</p>
